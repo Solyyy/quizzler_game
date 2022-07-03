@@ -16,4 +16,4 @@ This is a quizz game where we use the [OPEN Trivia DB](https://opentdb.com/) API
 3. html 
 
 # License
-- [MIT License](https://github.com/Solyyy/flash-card-app/blob/main/LICENSE.TXT)
+- [MIT License](https://github.com/Solyyy/quizzler_game/blob/main/LICENSE.TXT)
